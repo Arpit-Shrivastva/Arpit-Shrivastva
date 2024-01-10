@@ -8,8 +8,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<img align="right" src="https://icons8.com/illustrations/illustration/coworking-male-programmer-writing-program-code--animated" style="width:320px; height:200px;">
-💬 Ask me about reated to Java, Angular, SpringBoot, Spring, Javascript, Typescript HTML, CSS, MySQL, MongoDB<br>
+<img align="right" src="https://icons8.com/illustrations/illustration/juicy-man-programmer-writing-code-and-make-web-design-on-a-pc--animated" style="width:320px; height:200px;">
+
+
+💬 Ask me about reated to Java, Angular, SpringBoot, Spring, Javascript, Typescript HTML, CSS, MySQL, MongoDB <br>
 💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential
 
 <h2 align="center">🌐 Socials</h2>
