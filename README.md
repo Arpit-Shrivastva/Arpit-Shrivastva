@@ -7,7 +7,7 @@
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🚀 I’m learning Full Stack Software Developer<br>🖥️ A Tech Enthusiast with skills of Java and Angular, Spring Boot and Docker<br>💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential<br>💬 Ask me about reated to Java, Angular, SpringBoot, Spring, Javascript, Typescript HTML, CSS, MySQL, MongoDB
+!--🚀 I’m learning Full Stack Software Developer<br>--!🖥️ A Tech Enthusiast with skills of Java and Angular, Spring Boot and Docker<br>💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential<br>💬 Ask me about reated to Java, Angular, SpringBoot, Spring, Javascript, Typescript HTML, CSS, MySQL, MongoDB
 
 
 ## 🌐 Socials:
