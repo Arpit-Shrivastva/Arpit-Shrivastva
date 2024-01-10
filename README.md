@@ -50,15 +50,17 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-     
-![](https://github-readme-stats.vercel.app/api?username=Arpit-Shrivastava&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arpit-Shrivastava&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Shrivastava&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<img style="width:330px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-Shrivastva&theme=dark&hide_border=false" />
 
-![](https://github-profile-trophy.vercel.app/?username=Arpit-Shrivastava&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img style="width:190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Shrivastva&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+
+<img style="width:300px;" src="https://github-readme-stats.vercel.app/api?username=Arpit-Shrivastva&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
 
 </div>
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arpit-Shrivastva&theme=darkhub" alt="Arpit-Shrivastva" /></a> </p>
+
 
 <h2 align="center"> ✍️ Quote</h2>
 <div align="center">
