@@ -1,4 +1,12 @@
-# 💫 ARPIT SHRIVASTAVA
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+     <a>
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=440&height=45&lines=Hello+there!+this+is+Arpit+Shrivastava;A+Full+Stack+Developer"></a>
+      </p>
+      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 🚀 I’m learning Full Stack Software Developer<br>🖥️ A Tech Enthusiast with skills of Java and Angular, Spring Boot and Docker<br>💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential<br>💬 Ask me about reated to Java, Angular, SpringBoot, Spring, Javascript, Typescript HTML, CSS, MySQL, MongoDB
 
 
