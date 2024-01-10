@@ -15,6 +15,8 @@
 <br>
 💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential
 <br>
+<br>
+<br>
 
 <h2 align="center">🌐 Socials</h2>
 
@@ -52,7 +54,6 @@
 <div align="center">
 
 <img style="width:330px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-Shrivastva&theme=dark&hide_border=false" />
-
 <img style="width:190px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Shrivastva&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 
 <img style="width:300px;" src="https://github-readme-stats.vercel.app/api?username=Arpit-Shrivastva&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
