@@ -2,7 +2,7 @@
 
 <p align="center">
      <a>
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=440&height=80&lines=Hello+there!+this+is+Arpit+Shrivastava;A+Full+Stack+Developer"></a>
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Hello+there!+this+is+Arpit+Shrivastava;A+Full+Stack+Developer"></a>
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
