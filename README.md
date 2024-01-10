@@ -1,5 +1,5 @@
 # 💫 ARPIT SHRIVASTAVA
-🚀 I’m learning Full Stack Software Developer<br>🖥️ A Tech Enthusiast with skills of Java and Angular, Spring Boot and Docker<br>💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential<br>💬 Ask me about reated to Java, Angular and SpringBoot, Spring, Javascript, Typescript Html, Css, MySql, MongoDB
+🚀 I’m learning Full Stack Software Developer<br>🖥️ A Tech Enthusiast with skills of Java and Angular, Spring Boot and Docker<br>💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential<br>💬 Ask me about reated to Java, Angular, SpringBoot, Spring, Javascript, Typescript HTML, CSS, MySQL, MongoDB
 
 
 ## 🌐 Socials:
