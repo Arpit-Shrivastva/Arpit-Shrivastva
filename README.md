@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
      <a>
@@ -7,8 +7,7 @@
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j82j1ewpwac2svh7jd99clh7l0p0f1xud69jdzg1&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:320px; height:200px;">
+<img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="width:320px; height:200px;">
 
 
 💬 Ask me about reated to Java, Angular, SpringBoot, Spring, Javascript, Typescript HTML, CSS, MySQL, MongoDB <br>
