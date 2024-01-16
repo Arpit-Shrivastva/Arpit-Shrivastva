@@ -24,6 +24,12 @@
 
 <div align="center">  
      <a href="https://linkedin.com/in/arpit-shrivastava21" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="45" /></a> 
+    <a href="https://www.geeksforgeeks.org/" target="_blank">
+        <img style="margin: 10px" src="YOUR_GEEXSFORGEEKS_ICON_URL" alt="GeeksforGeeks" height="45" />
+    </a>
+    <a href="https://leetcode.com/" target="_blank">
+        <img style="margin: 10px" src="YOUR_LEETCODE_ICON_URL" alt="LeetCode" height="45" />
+    </a>
 </div>
 
 <h2 align="center">💻 Tech Stack</h2>
