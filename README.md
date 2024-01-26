@@ -17,8 +17,14 @@
 
 🤝 Practising DSA on Leetcode & GfG.
 <br>
-
-📫 How to reach me : just one step away arpitshri21@gmail.com
+<br>
+📫 How to reach me : just one step away <a href="mailto:arpitshri21@gmail.com" >here</a>
+<br>
+<br>
+📘 Find my portfolio <a href="https://arpit-shrivastva.github.io/" target="_blank">here</a>
+<br>
+<br>
+📑 Find my resume <a href="https://drive.google.com/file/d/1B3c3rfuyE4DqOlxhSyF-BonP7icBBcz9/view?usp=sharing" target="_blank">here</a>
 <br>
 <br>
 <br>
