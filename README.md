@@ -15,7 +15,8 @@
 💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential
 <br>
 
-🤝 Practising DSA on Leetcode & GfG.
+/*🤝 Practising DSA on Leetcode & GfG.*/
+
 <br>
 <br>
 📫 How to reach me : just one step away <a href="mailto:arpitshri21@gmail.com" >Click here</a>
