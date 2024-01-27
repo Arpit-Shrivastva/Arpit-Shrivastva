@@ -15,16 +15,12 @@
 💡 I am always eager to learn and improve my skills, and my projects on Github showcase my abilities and potential
 <br>
 
-/*🤝 Practising DSA on Leetcode & GfG.*/
-
-<br>
-<br>
 📫 How to reach me : just one step away <a href="mailto:arpitshri21@gmail.com" >Click here</a>
 <br>
-<br>
+
 📘 Find my portfolio <a href="https://arpit-shrivastva.github.io/Portfolio/?name=&email=&message=#home" target = "_blank">here</a>
 <br>
-<br>
+
 📑 Find my resume <a href="https://drive.google.com/file/d/1B3c3rfuyE4DqOlxhSyF-BonP7icBBcz9/view?usp=sharing" target = "_blank">here</a>
 <br>
 <br>
