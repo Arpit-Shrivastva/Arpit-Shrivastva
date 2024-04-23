@@ -18,7 +18,7 @@
 📫 How to reach me : just one step away <a href="mailto:arpitshri21@gmail.com" >Click here</a>
 <br>
 
-📑 Find my resume <a href="https://drive.google.com/file/d/1B3c3rfuyE4DqOlxhSyF-BonP7icBBcz9/view?usp=sharing" target = "_blank">here</a>
+📑 Find my resume <a href="https://drive.google.com/file/d/1UD_82iOX0M8RET_6wIUWzC_H8lOVLrVF/view?usp=sharing" target = "_blank">here</a>
 <br>
 <br>
 <br>
