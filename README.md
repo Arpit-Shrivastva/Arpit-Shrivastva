@@ -80,13 +80,6 @@
 
 </div>
 
-<h2 align="center"> 😂 Random Dev Meme</h2>
-
-<div align="center">
-     
-<img src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
-</div>
-
 ---
 <h2 align="center">👨‍🦱 Visitors Count</h2>
 <div align="center"> 
